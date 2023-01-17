@@ -1,0 +1,29 @@
+{
+  "appName": "Medical App",
+  "vitals": "Vitals",
+  "bloodOxygen": "Blood Oxygen",
+  "bloodGroup": "Blood Group",
+  "bloodPressure": "Blood Pressure",
+  "bodyWeight": "Body Weight",
+  "respiratoryRate": "Respiratory Rate",
+  "bodyTemp": "Body Temperator",
+  "viewAll": "View all",
+  "general": "Generation",
+  "resting": "Resting",
+  "afterExercise": "After Exercise",
+  "Before Exercise": "Before Exercise",
+  "excited": "Excited",
+  "selectPhoto": "Select Photo",
+  "takeAPhoto": "Take a Photo",
+  "manual": "Manual",
+  "cancel": "Cancel",
+  "week": "Week",
+  "Month": "Month",
+  "year": "Year",
+  "allTime": "All Time",
+  "spo2": "SpO\u2082",
+  "age": "Age",
+  "month": "Month"
+
+
+}
