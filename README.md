@@ -1,16 +1,10 @@
 # medical_app
 
-A new Flutter project.
+A Medical app ui created with the help of Flutter, using Clean Architecture, Riverpod
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screen Shot - iPhone 14 Pro - 2023-01-17 at 14 02 34](https://user-images.githubusercontent.com/68145997/212848775-ea3181d8-2589-4862-be5e-a33a43e24257.png)
+![Simulator Screen Shot - iPhone 14 Pro - 2023-01-17 at 14 02 44](https://user-images.githubusercontent.com/68145997/212848804-46321727-a3c8-4e21-aa82-c5cecea8b1da.png)
+![Simulator Screen Shot - iPhone 14 Pro - 2023-01-17 at 14 02 54](https://user-images.githubusercontent.com/68145997/212848822-0f07b95d-1089-4b28-bb75-57556544c60b.png)
+![Simulator Screen Shot - iPhone 14 Pro - 2023-01-17 at 14 02 58](https://user-images.githubusercontent.com/68145997/212848837-18dd58fe-e2e3-4e8d-8733-dfc60a6c07ce.png)
