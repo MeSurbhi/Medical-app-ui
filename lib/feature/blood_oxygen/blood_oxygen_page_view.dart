@@ -12,7 +12,7 @@ class BloodOxygenPageView extends BasePageViewWidget<BloodOxygenViewModel> {
 
   @override
   Widget build(BuildContext context, BloodOxygenViewModel model) {
-    return Column(
+    return SingleChildScrollView(child:Column(
       children: [
         Container(
           margin:
@@ -26,6 +26,6 @@ class BloodOxygenPageView extends BasePageViewWidget<BloodOxygenViewModel> {
         BloodOxygenChartPage(),
         BloodOxygenList(model: model),
       ],
-    );
+    ),);
   }
 }
